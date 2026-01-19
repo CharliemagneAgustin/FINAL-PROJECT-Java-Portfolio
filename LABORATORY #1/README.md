@@ -1,0 +1,3 @@
+The CVSU LIBRARY program is a simple computer tool that acts like a librarian for a shelf that holds five books. It uses a menu to let people add books, change their status to "borrowed," or see a list of everything on the shelf. When a book is added, the computer automatically creates a random ID number for it and saves its name into a digital list.
+
+The program also creates a report that counts how many books are currently available and how many are being borrowed. It includes safety rules so it won't crash if someone types a letter instead of a number, and it will give a warning if the shelf is completely full. This makes it easy to keep the books organized without making mistakes.
