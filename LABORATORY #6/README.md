@@ -1,0 +1,3 @@
+The SmartHomeSystem software operates similarly to a universal remote control for many household electronics. It employs a main "Device" class to manage common activities for all users, such as knowing where a device is and turning on or off the power. Certain products have their own categories. It controls the television's volume and channels, the air conditioner monitors temperature, and the lamp shades change brightness and hue.
+
+The code can communicate with all of these devices simultaneously to display their status or count the number of devices that are operating at the moment. Additionally, it has a "Master Switch" that makes it simple to control your entire home by turning all of the appliances on and off with a single command.
