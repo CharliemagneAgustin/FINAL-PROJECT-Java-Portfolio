@@ -1,3 +1,4 @@
-CVSU LIBRARY is a basic java program that serves as a librarian for a five-book shelf. Users can add books, alter their status to "borrowed," or view a list of all the books on the shelf using a menu. The computer immediately generates a random ID number and stores the book's name in a digital list when it is added.
+CVSU LIBRARY is a basic java program that serves as a librarian for a five book shelf. Users can add books, alter their status to "borrowed," or view a list of all the books on the shelf using a menu. The computer immediately generates a random ID number and stores the book's name in a digital list when it is added.
 
 Additionally, the software generates a report that tallies the number of books that are currently available and those that are being borrowed. It has safety features that prevent it from crashing if someone writes a letter instead of a number, and it will alert the user if the shelf is full. This facilitates maintaining the books' organization.
+
