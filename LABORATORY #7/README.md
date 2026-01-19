@@ -1,0 +1,3 @@
+The OrderApp java program functions similarly to an online store's digital checkout counter. To keep track of each purchase's ID number, cost, and status, it employs a primary Order class. The actual processing and payment are handled by the OnlineOrder class.
+
+The software maintains a large order list and tracks whether a shipment is "Pending," "Paid," or "Cancelled" using an OrderStatus list. Although the main code generates many orders, it is clever enough to employ a "lister" to verify each one. To keep the store orderly, the program automatically removes orders that are cancelled from the list.
